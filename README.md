@@ -94,7 +94,7 @@ function getRandomColor() {
 
 A continuación se muestran algunas capturas del proyecto final:
 
-![Vista previa 1](./imgREADME/inicio.png)
+![Vista previa 1](./imgREADME/Inicio.png)
 
 ![Vista previa 2](./imgREADME/ABC.png)
 
